@@ -7,7 +7,7 @@ Short term
 3) Provide data for affluence
 
 Future steps
-1) Set an additional data set for tracking party changes in Italy. As it is common in Italy for parties to change names, in particular after the end of the so called 'First Republic', this would help track the parties pongitudinally.
+1) Set an additional data set for tracking party changes in Italy. As it is common in Italy for parties to change names, in particular after the end of the so called 'First Republic', this would help track the parties longitudinally.
 2) Set an additional data set for tracking individual towns or provinces. Taking into account possible institutional changes makes it possible to track geographical areas longitudinally.
 3) Find a way to take into account candidates for the first-past-the-post seats in the elections of 1994, 1996 and 2001. As it was possible to split the vote between the proportional consitutency and the uninominal one, this is much more complicated than it sounds.
 
